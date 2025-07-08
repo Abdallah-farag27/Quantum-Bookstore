@@ -1,6 +1,6 @@
 import java.util.List;
 
-public class Main {
+public class TestClass {
     public static void main(String[] args) {
         Bookstore bookStore = new Bookstore();
 
