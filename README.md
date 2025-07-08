@@ -5,7 +5,6 @@
 ```
 Quantum-Bookstore/
 ├── .idea/
-├── out/
 ├── src/
 │ ├── Book.java
 │ ├── Bookstore.java
@@ -17,7 +16,7 @@ Quantum-Bookstore/
 │ ├── ShippingService.java
 │ └── ShowcaseBook.java
 ├── .gitignore
-├── fawry-intern-2.iml
+└── fawry-intern-2.iml
 ```
 
 ## Running the Demo
