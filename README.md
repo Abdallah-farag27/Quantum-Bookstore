@@ -11,10 +11,10 @@ Quantum-Bookstore/
 │ ├── Bookstore.png
 │ ├── EBook.java
 │ ├── MailService.java
-│ ├── Main.java
 │ ├── PaperBook.java
 │ ├── ShippingService.java
-│ └── ShowcaseBook.java
+│ ├── ShowcaseBook.java
+│ └── TestClass.java
 ├── .gitignore
 └── fawry-intern-2.iml
 ```
